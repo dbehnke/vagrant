@@ -13,9 +13,9 @@ ol5_64_boxname=ol511-64
 ol5_64_output=oel511-nocm-0.1.0.box
 
 ol5_32_repo=oel-vm
-ol5_32_template=oel511-386.json
+ol5_32_template=oel511-i386.json
 ol5_32_boxname=ol511-32
-ol5_32_output=oel511-386-nocm-0.1.0.box
+ol5_32_output=oel511-i386-nocm-0.1.0.box
 
 ol6_64_repo=oel-vm
 ol6_64_template=oel66.json
@@ -67,7 +67,7 @@ fedora21_64_template=fedora21.json
 fedora21_64_boxname=fedora21-64
 fedora21_64_output=fedora21-nocm-0.1.0.box
 
-fedora21_32_repo=fedora21-vm
+fedora21_32_repo=fedora-vm
 fedora21_32_template=fedora21-i386.json
 fedora21_32_boxname=fedora21-32
 fedora21_32_output=fedora21-i386-nocm-0.1.0.box
