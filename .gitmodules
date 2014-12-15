@@ -1,3 +1,12 @@
 [submodule "box-cutter/oel-vm"]
 	path = box-cutter/oel-vm
 	url = https://github.com/box-cutter/oel-vm.git
+[submodule "box-cutter/ubuntu-vm"]
+	path = box-cutter/ubuntu-vm
+	url = https://github.com/box-cutter/ubuntu-vm.git
+[submodule "box-cutter/fedora-vm"]
+	path = box-cutter/fedora-vm
+	url = https://github.com/box-cutter/fedora-vm.git
+[submodule "box-cutter/debian-vm"]
+	path = box-cutter/debian-vm
+	url = https://github.com/box-cutter/debian-vm.git
