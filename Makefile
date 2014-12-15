@@ -77,7 +77,7 @@ fedora20_64_template=fedora20.json
 fedora20_64_boxname=fedora20-64
 fedora20_64_output=fedora20-nocm-0.1.0.box
 
-fedora20_32_repo=fedora20-vm
+fedora20_32_repo=fedora-vm
 fedora20_32_template=fedora20-i386.json
 fedora20_32_boxname=fedora20-32
 fedora20_32_output=fedora20-i386-nocm-0.1.0.box
