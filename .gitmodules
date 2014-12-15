@@ -1,0 +1,3 @@
+[submodule "box-cutter/oel-vm"]
+	path = box-cutter/oel-vm
+	url = https://github.com/box-cutter/oel-vm.git
