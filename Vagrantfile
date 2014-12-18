@@ -5,8 +5,12 @@
 VAGRANTFILE_API_VERSION = "2"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
-  config.vm.define "ol5", autostart: false do |c|
-    c.vm.box = "ol5"
+  config.vm.define "ol5-32", autostart: false do |c|
+    c.vm.box = "ol5-32"
+    c.vm.provider "virtualbox" do |vb|
+    #   vb.gui = true
+       vb.memory = "1024"
+    end
   end
 
   config.vm.define "ol6", autostart: false do |c|
