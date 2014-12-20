@@ -43,9 +43,9 @@ ubuntu1410_32_boxname=ubuntu1410-32
 ubuntu1410_32_output=ubuntu1410-i386-nocm-0.1.0.box
 
 ubuntu1404_64_repo=ubuntu-vm
-ubuntu1404_64_template=ubuntu1410.json
-ubuntu1404_64_boxname=ubuntu1410-64
-ubuntu1404_64_output=ubuntu1410-nocm-0.1.0.box
+ubuntu1404_64_template=ubuntu1404.json
+ubuntu1404_64_boxname=ubuntu1404-64
+ubuntu1404_64_output=ubuntu1404-nocm-0.1.0.box
 
 ubuntu1404_32_repo=ubuntu-vm
 ubuntu1404_32_template=ubuntu1404-i386.json
