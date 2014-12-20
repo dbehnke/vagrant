@@ -13,8 +13,8 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     c.vm.box = "ol6"
   end
 
-  config.vm.define "ol7", autostart: false do |c|
-    c.vm.box = "ol7"
+  config.vm.define "ol70-64", autostart: false do |c|
+    c.vm.box = "ol70-64"
   end
 
   config.vm.define "fedora21", autostart: false do |c|
