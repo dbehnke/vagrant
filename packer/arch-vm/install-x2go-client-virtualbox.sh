@@ -68,7 +68,7 @@ cat <<-EOF > "${TARGET_DIR}${CONFIG_SCRIPT}"
  	/usr/bin/systemctl enable lightdm.service
 
 	# x2go
-	/usr/bin/pacman -S --noconfirm x2goserver
+	/usr/bin/pacman -S --noconfirm x2goserver x2goclient
 
 	# VirtualBox Guest Additions
 	/usr/bin/pacman -S --noconfirm linux-headers virtualbox-guest-utils virtualbox-guest-dkms
